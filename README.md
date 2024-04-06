@@ -56,7 +56,7 @@ Welcome to our community project focused on leveraging machine learning (ML) to 
 
 ## Contributing
 
-We warmly welcome contributions from the community. Whether you're fixing bugs, adding new features, improving documentation, or suggesting new models, your input is valuable. Please see ./CONTRIBUTING.md for more details on how to submit contributions.
+We warmly welcome contributions from the community. Whether you're fixing bugs, adding new features, improving documentation, or suggesting new models, your input is valuable. Please see [CONTRIBUTING.md](https://github.com/Michael-Siglap/TradeMachine/blob/main/CONTRIBUTING.md) for more details on how to submit contributions.
 
 ## License
 
