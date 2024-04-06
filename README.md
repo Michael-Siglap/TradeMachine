@@ -60,7 +60,7 @@ We warmly welcome contributions from the community. Whether you're fixing bugs, 
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Michael-Siglap/TradeMachine/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 
